@@ -62,7 +62,6 @@ section{
 }
 footer{
   margin-top: 50px;
-  border: 3px solid red;
   display: flex;
   justify-content: space-between;
 
@@ -79,13 +78,10 @@ footer p{
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  border: 3px solid yellow;
-
 }
 #contact{
   width: 50%;
   display: flex;
-  border: 3px solid blue;
   justify-content: center;
   align-items: center;
   flex-direction: column;
