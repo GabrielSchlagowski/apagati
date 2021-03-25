@@ -63,7 +63,7 @@ section{
 footer{
   margin-top: 50px;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
 
 }
 footer img{
